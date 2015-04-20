@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "InterviewMaster.io"
+        }, 
+        "InterviewMaster.io": {
+            "applicationId": "FiMCBFAzv0hYK4ZSlwCBkPwdEc3CTrcYEqN3QCXd",
+            "masterKey": "cu2ImoqEtSDWfjl0b3LGsIHSYlQ630jViihoz8zj"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.0"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "templates" :  "src/*.ejs",
+    "partials" :  "src/partials",
+    "assets" : "src/assets/**/*",
+    "src": "src",
+    "buildpath" : "build",
+    "buildpath_ru" : "build/ru",
+    "data" : {
+        "domain": "InterviewMaster.io",
+        "title": "InterviewMaster",
+        "name": "InterviewMaster",
+        "email": "info@InterviewMaster.io",
+        "skype": "InterviewMaster",
+        "skype_chat":"skype:InterviewMaster?chat",
+        "twitter_path": "https://twitter.com/InterviewMaster",
+        "twitter_handle": "@InterviewMaster",
+        "linkedin":"https://www.linkedin.com"
+    }
+}
